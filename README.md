@@ -23,7 +23,7 @@ python is a simple language and is platform independent   with a flexibility and
 
 **PyAutoGUI**
 
-     In essence, PyAutoGUI is a Python software that runs on Windows, MacOS X, and Linux and allows users to imitate  keyboard button pushes as well as mouse cursor movements and clicks. A Python package for cross-platform  GUI automation  for people  is called PyAutoGUI.  A  Python  automation  module  called PyAutoGUI may be used to click, drag, scroll, move, etc. It may be used to click precisely where you want. used  to  automate  the  control  of  the  keyboard  and mouse.
+     In essence, PyAutoGUI is a Python software that runs on Windows, MacOS X, and Linux and allows users to imitate  keyboard button pushes as well as mouse cursor movements and clicks. A Python package for cross-platform  GUI automation  for people  is called PyAutoGUI.
 
 **NumPy(Numerical Python)**
 
