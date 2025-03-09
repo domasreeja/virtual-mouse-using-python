@@ -21,11 +21,11 @@ python is a simple language and is platform independent   with a flexibility and
 
    A  framework  called Media  Pipe is  a Google  open-source  framework  that  is  applied  in  a  machine learning  pipeline. Since  the  Media Pipe  framework was created utilizing time series data, it may be used for  cross-platform  programming .Analyze systems using  graphs  as  well  as  to  create  systems  for application-related  purposes.
 
-**PyAutoGUI**
-
-     In essence, PyAutoGUI is a Python software that runs on Windows, MacOS X, and Linux and allows users to imitate  keyboard button pushes as well as mouse cursor movements and clicks. A Python package for cross-platform  GUI automation  for people  is called PyAutoGUI.
-
 **NumPy(Numerical Python)**
 
 Numpy is a fundamental library for Python numerical computing. It provides efficient multi-dimensional array objects and various mathematical functions for handling large datasets making it a critical tool for professionals in fields that require heavy computation.
+
+**PyAutoGUI**
+
+     In essence, PyAutoGUI is a Python software that runs on Windows, MacOS X, and Linux and allows users to imitate  keyboard button pushes as well as mouse cursor movements and clicks. A Python package for cross-platform  GUI automation  for people  is called PyAutoGUI.
 
