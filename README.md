@@ -5,10 +5,13 @@ virtual mouse system can  be  used  to overcome problems in the real world  such
 
 python is a simple language and is platform independent   with a flexibility and is portable which is desirable in  creating a program which is focused in such an aim for  creating a Virtual Mouse and Hand Recognition system.
   
-  **OpenCV 
-  Media Pipe 
-  PyAutoGUI 
-  Numpy**
+  OpenCV
+  
+  Media Pipe
+  
+  PyAutoGUI
+  
+  Numpy
 
 **OpenCV **
    A computer vision package called OpenCV contains techniques for processing images that detect objects. Real-time computer vision applications may be made using the Python computer vision package known as OpenCV. The OpenCV library is used to analyze data from  photos  and videos,  including  face  and  object detection.
