@@ -14,14 +14,18 @@ python is a simple language and is platform independent   with a flexibility and
   Numpy
 
 **OpenCV **
+
    A computer vision package called OpenCV contains techniques for processing images that detect objects. Real-time computer vision applications may be made using the Python computer vision package known as OpenCV. The OpenCV library is used to analyze data from  photos  and videos,  including  face  and  object detection.
 
-**Media Pipe** 
+**Media Pipe**
+
    A  framework  called Media  Pipe is  a Google  open-source  framework  that  is  applied  in  a  machine learning  pipeline. Since  the  Media Pipe  framework was created utilizing time series data, it may be used for  cross-platform  programming .Analyze systems using  graphs  as  well  as  to  create  systems  for application-related  purposes.
 
 **PyAutoGUI**
+
      In essence, PyAutoGUI is a Python software that runs on Windows, MacOS X, and Linux and allows users to imitate  keyboard button pushes as well as mouse cursor movements and clicks. A Python package for cross-platform  GUI automation  for people  is called PyAutoGUI.  A  Python  automation  module  called PyAutoGUI may be used to click, drag, scroll, move, etc. It may be used to click precisely where you want. used  to  automate  the  control  of  the  keyboard  and mouse.
 
 **NumPy(Numerical Python)**
+
 Numpy is a fundamental library for Python numerical computing. It provides efficient multi-dimensional array objects and various mathematical functions for handling large datasets making it a critical tool for professionals in fields that require heavy computation.
 
